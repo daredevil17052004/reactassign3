@@ -1,0 +1,12 @@
+/* add your styles here */
+
+div{
+    display: flex ;
+    flex-wrap: wrap;
+}
+img{
+    width: 600px;
+    height: 700px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
